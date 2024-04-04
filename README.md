@@ -1,4 +1,4 @@
-### Hi there 👋
+You can find my projects here: [andreithuler.com/projects](https://andreithuler.com/projects/)
 
 <!--
 **athuler/athuler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
