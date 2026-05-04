@@ -10,6 +10,7 @@ Hello! My name is Andrei and I've been programming since `2014`!
 ## Open Source Projects
 - 📌 [PassioGo API](https://github.com/athuler/PassioGo)
 - 🚀 [Mars Rover Timelapse](https://github.com/athuler/mars-rover-timelapse)
+- 🎵 [Musical Recording Captioning](https://github.com/athuler/MusicalRecordingCaptioning)
 
 ## Press
 - [My.UChicago Vulnerability Could Have Exposed Students’ Class Schedules](https://chicagomaroon.com/46707/news/my-uchicago-vulnerability-could-have-exposed-students-class-schedules/), *Chicago Maroon* (March 2025)
